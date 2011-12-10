@@ -1,0 +1,10 @@
+contact.php
+
+This is a very basic php contact form.
+
+
+How to use:
+
+1. Copy contact.php & thanks.html to your server
+2. Edit the contact.php file "config" section.
+3. Customize thanks.html as much as you want.
